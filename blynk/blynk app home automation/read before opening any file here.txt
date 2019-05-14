@@ -1,0 +1,6 @@
+author tony stark
+before the execution of this programm app should online
+the selected board in blynk app must be NODEMCU not  esp8266
+the button should configured carefully and signals wheather 0 or 1;
+
+
